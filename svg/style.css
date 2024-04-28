@@ -17,6 +17,9 @@ body {
     border: 2px dashed #2a2a2a;
     border-radius: 8px;
     fill: #2a2a2a;
+    fill-opacity: 0.7;
+    stroke: #f44336;
+    stroke-width: 1px;
   }
   
   .icon:hover {
